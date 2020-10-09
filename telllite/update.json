@@ -2,11 +2,11 @@
   "dlc": [
     {
       "title": "Ep. 1",
-      "download": "insertdownloadlinkhere"
+      "downloadURL": "insertdownloadlinkhere"
     },
     {
       "title": "Ep. 2",
-      "download": "insertdownloadlinkhere"
+      "downloadURL": "insertdownloadlinkhere"
     }
   ]
 }
